@@ -1,0 +1,25 @@
+Notes for Implicit and Explicit Waits sections
+Source Code
+
+Download this code so that you can follow along with the tutorials
+
+https://github.com/nadvolod/WebdriverTimeoutsTutorial
+
+Urls
+
+Parent Page: https://the-internet.herokuapp.com/dynamic_loading
+Page 1: https://the-internet.herokuapp.com/dynamic_loading...
+Page 2: https://the-internet.herokuapp.com/dynamic_loading...
+Documentation (If you want to read more on these topics, these links are a great place to start)
+
+Implicit and Explicit waits from Selenium HQ-
+https://www.selenium.dev/documentation/en/
+
+WebDriverWait Class C#-
+https://www.selenium.dev/selenium/docs/api/dotnet/html/T_OpenQA_Selenium_Support_UI_WebDriverWait.htm
+
+WebDriverWait Class Java-
+https://www.selenium.dev/selenium/docs/api/java/org/openqa/selenium/support/ui/WebDriverWait.html
+
+ExpectedConditions class-
+https://www.selenium.dev/selenium/docs/api/dotnet/html/T_OpenQA_Selenium_Support_UI_ExpectedConditions.htm
